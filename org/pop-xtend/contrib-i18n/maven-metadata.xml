@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.pop-xtend</groupId>
+  <artifactId>contrib-i18n</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150904184113</lastUpdated>
+  </versioning>
+</metadata>
