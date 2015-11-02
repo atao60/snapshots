@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.pop-xtend</groupId>
+  <artifactId>contrib-all-annotations</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20151102013141</lastUpdated>
+  </versioning>
+</metadata>
